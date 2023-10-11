@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending club case study
+> Given the data set of a company called ‘Lending Club’, a consumer finance company, EDA (Exploratory Data Analysis) needs to be performed on the given data set to help the company make decisions for loan approvals based on the applicants’ profile. 
 
 
 ## Table of Contents
